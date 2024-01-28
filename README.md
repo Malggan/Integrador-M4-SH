@@ -535,13 +535,13 @@ Con esta herramienta, se puede automatizar las tareas de flujo de carga de traba
 
 ## :people_hugging: Participantes y compañeros del pair programming
 
-* **`Aldo Federico Mamani`**     [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afederico-mamani-mgg/) 
+* **`Aldo Federico Mamani`**...........   [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afederico-mamani-mgg/)
 
-* **`Sebastian Vazquez`**        [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-vazquez-67353722b/)
+* **`Sebastian Vazquez`**..................   [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-vazquez-67353722b/)
 
-* **`Ronnie Escobar Ccanto`**    [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronnie-escobar-ccanto7461/)
+* **`Ronnie Escobar Ccanto`**.........   [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronnie-escobar-ccanto7461/)
 
-* **`Maria Eva Bichi`**          [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-eva-bichi-264443203/)
+* **`Maria Eva Bichi`**......................   [![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-eva-bichi-264443203/)
 
 <br>
  
