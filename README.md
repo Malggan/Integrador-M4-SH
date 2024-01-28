@@ -524,7 +524,7 @@ Con crontab, para que ejecute cada día a las 5 AM:
 Para la orquestación de flujo de datos, una herramienta vista en clases y muy interesante es Airflow.
 
 <p align="center">
-<img src="https://github.com/SebitaElGordito/Integrador_M4/blob/main/Imagenes_proyecto/Airflow.png" alt="imagen de Airflow creando un DAG" width="600" height="300">
+<img src="https://github.com/SebitaElGordito/Integrador_M4/blob/main/Imagenes_proyecto/Airflow.png" alt="imagen de Airflow creando un DAG" width="700" height="250">
 </p>
 
 <br>
